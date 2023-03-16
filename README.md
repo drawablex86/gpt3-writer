@@ -1,3 +1,3 @@
-# buildspace 
+# Text Space
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is an experimental project to teach myself how to use gpt3.
