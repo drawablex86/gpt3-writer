@@ -6,6 +6,7 @@ export default function Document() {
       <Head>
         <meta property="og:title" content="Gandhi GPT" key="title"/>
         <meta property="og:description" content="An AI powered chatbot that responds like Gandhi" key="description"/>
+        <meta property="og:url" content="https://gandhi-gpt.vercel.app/" />
         <meta
           property="og:image"
           content=""
